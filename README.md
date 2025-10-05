@@ -2,9 +2,10 @@
 <h3 align="center">A student currently taking BS Computer Science Major in Software Technology at De La Salle University, Philippines</h3>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=vld090&theme=nord&margin-w=15" /><source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=vld090&theme=flat&margin-w=15" /><img alt="vld090's Trophy" src="https://github-profile-trophy.vercel.app/?username=vld090&theme=none&margin-w=15" /></picture></a></p>
+
 - 🔭 I’m currently working on [Aspect Extraction from Taglish E-Commerce Product and Service Reviews](https://github.com/vld090/Aspect-Extraction-On-Shopee-Reviews.git)
 
-- 🌱 I’m currently learning **NLP, react**
+- 🌱 I’m currently learning **NLP, react.**
 
 - 📫 How to reach me **valiantlance.dionela@gmail.com**
 
